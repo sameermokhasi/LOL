@@ -1,0 +1,2 @@
+a="sameer"
+print(a)
